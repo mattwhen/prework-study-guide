@@ -31,9 +31,6 @@ N/A
 ## Usage
 Each section in the webpage contains information about the following topics: HTML, CSS, Git, and JavaScript. 
 
-When navigating to the webpage, you should see what is included in the PDF attachment, included below.
-
-![alt text](assets/Prework Study Guide.pdf)
 
 <br>
 
