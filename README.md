@@ -1,5 +1,6 @@
 # Prework Study Guide Webpage
 
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
@@ -20,6 +21,7 @@ Provide a short description explaining the what, why, and how of your project. U
   Also, writing code should be written neatly and precise for other developers to read and follow. 
 
 
+
 ## Installation
 
 N/A
@@ -31,9 +33,11 @@ When navigating to the webpage, you should see what is included in the PDF attac
 
 ![alt text](assets/Prework Study Guide.pdf)
 
+
 ## Credits
 
 N/A
+
 
 ## License
 
