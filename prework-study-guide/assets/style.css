@@ -6,8 +6,8 @@
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid #f77f00;
-    box-shadow: 5px 10px #f77f00;
+    border: 5px solid blue;
+    box-shadow: 5px 10px grey;
 }
 
 header,
